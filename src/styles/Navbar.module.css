@@ -9,6 +9,9 @@
     display: flex;
     align-items: center;
 }
+.navbar:hover{
+    background-image: linear-gradient(to left,red,yellow);
+}
 .navbar>a{
     color: black;
     font-size: 21px;

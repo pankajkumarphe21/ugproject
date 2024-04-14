@@ -1,8 +1,10 @@
+import { Outlet } from 'react-router-dom';
 import img from './../images/250px-Quercetin.svg.png'
 import styles from './../styles/About.module.css'
 
 const About = () => {
   return (
+    <>
     <div className={styles.about}>
       <h1>Quercetin</h1>
       <img src={img} alt="" />
@@ -26,6 +28,8 @@ const About = () => {
       <p>Quercetin is the most abundant flavonoid in the diet. It’s estimated that the average person consumes 10-100 mg of it daily through various food sources.</p>
       <p>Foods that commonly contain quercetin include onions, apples, grapes, berries, broccoli, citrus fruits, cherries, green tea, coffee, red wine, and capers.</p>
     </div>
+    <Outlet/>
+    </>
   );
 };
 
