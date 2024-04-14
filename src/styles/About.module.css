@@ -5,22 +5,31 @@
     align-items: center;
     color: aliceblue;
 }
-img{
+.about>img{
     height: 220px;
     width: 400px;
     margin-bottom: 50px;
-    background-color: palegreen;
 }
-p{
+.about>p{
     margin: 4px;
     font-size: 20px;
 }
-ul{
+.about>ul{
     margin: 2px;
 }
-li{
+.about>ul>li{
     font-size: 19px;
 }
-h1{
-    color: black;
+.about>h1{
+    color: aqua;
+    margin-bottom: 30px;
+}
+.about>img:hover{
+    transform: scale(1.01);
+}
+.about>p:hover{
+    transform: scale(1.01);
+}
+.about>ul>li:hover{
+    transform: scale(1.01);
 }

@@ -1,0 +1,8 @@
+.error{
+    color: white;
+}
+.error>h1{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+}

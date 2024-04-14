@@ -2,17 +2,21 @@
     color: white;
     padding-left: 40px;
 }
-p{
+.references>p{
     margin: 4px;
     font-size: 20px;
 }
-ul{
+.references>ul{
     margin: 2px;
 }
-li{
+.references>ul>li{
     font-size: 19px;
+}
+.references>ul>li>a{
+    color: aquamarine;
 }
 h2{
     display: flex;
     color: black;
+    margin-top: 100px;
 }
