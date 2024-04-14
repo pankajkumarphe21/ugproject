@@ -1,0 +1,18 @@
+.references{
+    color: white;
+    padding-left: 40px;
+}
+p{
+    margin: 4px;
+    font-size: 20px;
+}
+ul{
+    margin: 2px;
+}
+li{
+    font-size: 19px;
+}
+h2{
+    display: flex;
+    color: black;
+}

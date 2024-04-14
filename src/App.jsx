@@ -1,4 +1,5 @@
 import About from "./Components/About"
+import References from "./Components/References"
 import './App.css'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
       <About/>
+      <References/>
     </div>
   )
 }
