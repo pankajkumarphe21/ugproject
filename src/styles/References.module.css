@@ -15,7 +15,7 @@
 .references>ul>li>a{
     color: aquamarine;
 }
-h2{
+.references>h2{
     display: flex;
     color: fuchsia;
 }

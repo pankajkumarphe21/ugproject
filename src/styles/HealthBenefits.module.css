@@ -1,0 +1,13 @@
+.hb{
+    padding-left: 40px;
+}
+.hb>h2{
+    color: aqua;
+}
+.hb>h3{
+    color: aquamarine;
+}
+.hb>p{
+    color: white;
+    font-size: 17px;
+}

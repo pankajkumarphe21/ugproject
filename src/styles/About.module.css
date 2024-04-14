@@ -33,3 +33,6 @@
 .about>ul>li:hover{
     transform: scale(1.01);
 }
+.about>h2{
+    margin-bottom: -9px;
+}

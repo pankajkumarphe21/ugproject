@@ -7,6 +7,9 @@ const Navbar = () => {
       <Link to="/" className={styles.first}>
         About
       </Link>
+      <Link to="/health_benefits">
+        Health Benefits
+      </Link>
       <Link to="/references">
         References
       </Link>

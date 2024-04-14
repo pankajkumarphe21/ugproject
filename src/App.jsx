@@ -1,8 +1,9 @@
 import About from "./Components/About";
 import References from "./Components/References";
 import Navbar from "./Components/Navbar";
-import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Error from "./Components/Error";
+import HealthBenefits from "./Components/HealthBenefits";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           </Route>
           <Route path="*" element={<Error />} />
           <Route path="references" element={<References />} />
+          <Route path="health_benefits" element={<HealthBenefits />} />
         </Routes>
       </BrowserRouter>
     </>
