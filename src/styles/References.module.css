@@ -20,5 +20,5 @@
     color: fuchsia;
 }
 .overflow{
-    overflow-x: scroll;
+    overflow-x: wrap;
 }
