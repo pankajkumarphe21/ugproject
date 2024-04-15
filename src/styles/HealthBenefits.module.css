@@ -2,12 +2,12 @@
     padding-left: 40px;
 }
 .hb>h2{
-    color: aqua;
+    color: black;
 }
 .hb>h3{
-    color: aquamarine;
+    color: slategray;
 }
 .hb>p{
-    color: white;
+    color: black;
     font-size: 17px;
 }

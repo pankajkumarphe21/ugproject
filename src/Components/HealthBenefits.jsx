@@ -12,6 +12,7 @@ const HealthBenefits = () => {
       <p>Quercetin's potential anti-inflammatory properties may provide allergy symptom relief</p>
       <p>For example, one study showed that taking quercetin supplements suppressed peanut-related anaphylactic reactions in mice.</p>
       <p>Still it's unclear whether the compound has the same effect on allergies in humans, so more research is needed before it can be recommended as an alternative treatment.</p>
+      <h3>May have anti cancer effects</h3>
     </div>
   );
 };
