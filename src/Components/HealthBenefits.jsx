@@ -13,6 +13,8 @@ const HealthBenefits = () => {
       <p>For example, one study showed that taking quercetin supplements suppressed peanut-related anaphylactic reactions in mice.</p>
       <p>Still it's unclear whether the compound has the same effect on allergies in humans, so more research is needed before it can be recommended as an alternative treatment.</p>
       <h3>May have anti cancer effects</h3>
+      <p>Becaues quercetin has anti-oxidant properties, it may have cancer-fighting properties.</p>
+      <p>In a review of test-tube and animal studies, quercetin was found to suppress cell growth and induce cell death in prostate cancer cells.</p>
     </div>
   );
 };
