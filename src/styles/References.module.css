@@ -19,3 +19,6 @@
     display: flex;
     color: fuchsia;
 }
+.overflow{
+    overflow-x: scroll;
+}

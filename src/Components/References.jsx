@@ -8,7 +8,7 @@ const References = () => {
       <h2>References</h2>
       <ul>
         <li>
-          <a href="https://www.healthline.com/nutrition/quercetin#what-it-is" target="__blank">
+          <a href="https://www.healthline.com/nutrition/quercetin#what-it-is" target="__blank" className={styles.overflow}>
             https://www.healthline.com/nutrition/quercetin#what-it-is
           </a>
         </li>
